@@ -1,5 +1,7 @@
 # Stack Overflow regression analysis
 
+Public VIT project repository: https://github.com/saisri132000/mba-ai-operational-efficiency
+
 This is an independent revised research report using genuine public respondent data. It does not replace or pool the existing OECD aggregate report.
 
 Open AI_Use_at_Work_Regression_Report.docx or the HTML report. The original supplied draft is untouched. Candidate and guide metadata come from that draft and need confirmation. The revised scope requires supervisor acceptance. The public archive has 49,191 rows; the publisher reports 49,009 analysed responses. This unresolved difference is disclosed, not silently corrected.
