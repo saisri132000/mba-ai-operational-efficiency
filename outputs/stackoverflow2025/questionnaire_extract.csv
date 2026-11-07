@@ -1,0 +1,12 @@
+qid,qname,question,type,sub,sq_id
+QID3,MainBranch,Are you someone who writes code? Please select one of the following options that best describes you today.,MC,,
+QID7,Employment,Which of the following best describes your current employment status?<br>,MC,,
+QID14,WorkExp,"How many years of professional work experience do you have? Please round to the nearest whole number, excluding any decimal points.  If your answer is '0', please leave blank.",TE,,
+QID16,OrgSize,"Approximately how many people are employed by your employer?  This should only include your primary company, and if there was more than one employer please consider the one you spent most of your time working for in the past year.",MC,,
+QID20,Country,Where do you live?,MC,,
+QID78,AISelect,Do you currently use AI tools in your development process?,MC,,
+QID80,AIAcc,How much do you trust the accuracy of the output from AI tools as part of your development workflow?,MC,,
+QID81,AIComplex,How well do the AI tools you use in your development workflow handle complex tasks?,MC,,
+QID99,AIFrustration,"When using AI tools, which of the following problems or frustrations have you encountered? Select all that apply.",MC,,
+QID85,AIAgents,Are you using AI agents in your work (development or otherwise)?  AI agents refer to autonomous software entities that can operate with minimal to no direct human intervention using artificial intelligence techniques.,MC,,
+QID87,AIAgentImpact,To what extent do you agree with the following statements regarding the impact of AI agents on your work as a developer?,Matrix,,

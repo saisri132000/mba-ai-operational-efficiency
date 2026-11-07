@@ -1,0 +1,146 @@
+{
+  "sector_comparisons": [
+    {
+      "metric": "Employer AI adoption",
+      "finance_percent": 41.7,
+      "manufacturing_percent": 29.0,
+      "manufacturing_minus_finance_pp": -12.7,
+      "source_sheet": "Figure 2_1"
+    },
+    {
+      "metric": "Employer perceived productivity: positive",
+      "finance_percent": 56.7,
+      "manufacturing_percent": 62.6,
+      "manufacturing_minus_finance_pp": 5.9,
+      "source_sheet": "Figure 3_2"
+    },
+    {
+      "metric": "Worker perceived performance: improved",
+      "finance_percent": 79.3,
+      "manufacturing_percent": 79.8,
+      "manufacturing_minus_finance_pp": 0.5,
+      "source_sheet": "Figure 3_3"
+    },
+    {
+      "metric": "Worker task pace: increased",
+      "finance_percent": 74.8,
+      "manufacturing_percent": 77.4,
+      "manufacturing_minus_finance_pp": 2.6,
+      "source_sheet": "Figure 5_6"
+    },
+    {
+      "metric": "Worker task control: increased",
+      "finance_percent": 58.4,
+      "manufacturing_percent": 59.4,
+      "manufacturing_minus_finance_pp": 1.0,
+      "source_sheet": "Figure 5_6"
+    },
+    {
+      "metric": "Workers receiving decision assistance",
+      "finance_percent": 69.7,
+      "manufacturing_percent": 56.2,
+      "manufacturing_minus_finance_pp": -13.5,
+      "source_sheet": "Figure 5_8"
+    },
+    {
+      "metric": "Decision quality: agreement",
+      "finance_percent": 81.9,
+      "manufacturing_percent": 81.9,
+      "manufacturing_minus_finance_pp": 0.0,
+      "source_sheet": "Figure 5_9"
+    },
+    {
+      "metric": "Decision enjoyment: agreement",
+      "finance_percent": 83.8,
+      "manufacturing_percent": 82.8,
+      "manufacturing_minus_finance_pp": -1.0,
+      "source_sheet": "Figure 5_9"
+    },
+    {
+      "metric": "Decision speed: agreement",
+      "finance_percent": 84.6,
+      "manufacturing_percent": 86.4,
+      "manufacturing_minus_finance_pp": 1.8,
+      "source_sheet": "Figure 5_9"
+    },
+    {
+      "metric": "High-cost barrier",
+      "finance_percent": 53.03,
+      "manufacturing_percent": 57.65,
+      "manufacturing_minus_finance_pp": 4.62,
+      "source_sheet": "Figure 8_7"
+    },
+    {
+      "metric": "Skills barrier",
+      "finance_percent": 41.35,
+      "manufacturing_percent": 42.69,
+      "manufacturing_minus_finance_pp": 1.34,
+      "source_sheet": "Figure 8_7"
+    },
+    {
+      "metric": "Not convinced of benefits",
+      "finance_percent": 29.35,
+      "manufacturing_percent": 34.84,
+      "manufacturing_minus_finance_pp": 5.49,
+      "source_sheet": "Figure 8_7"
+    },
+    {
+      "metric": "Government-regulation barrier",
+      "finance_percent": 24.86,
+      "manufacturing_percent": 18.57,
+      "manufacturing_minus_finance_pp": -6.29,
+      "source_sheet": "Figure 8_7"
+    },
+    {
+      "metric": "Task automation",
+      "finance_percent": 66.1,
+      "manufacturing_percent": 71.6,
+      "manufacturing_minus_finance_pp": 5.5,
+      "source_sheet": "Figure 5_1"
+    },
+    {
+      "metric": "Task creation",
+      "finance_percent": 48.5,
+      "manufacturing_percent": 47.6,
+      "manufacturing_minus_finance_pp": -0.9,
+      "source_sheet": "Figure 5_1"
+    },
+    {
+      "metric": "Both automation and creation",
+      "finance_percent": 32.7,
+      "manufacturing_percent": 35.08,
+      "manufacturing_minus_finance_pp": 2.38,
+      "source_sheet": "Figure 5_1"
+    }
+  ],
+  "firm_sizes": [
+    {
+      "metric": "20-49 employees",
+      "finance_percent": 31.5,
+      "manufacturing_percent": 23.3,
+      "manufacturing_minus_finance_pp": -8.2,
+      "source_sheet": "Figure 2_1"
+    },
+    {
+      "metric": "50-249 employees",
+      "finance_percent": 45.8,
+      "manufacturing_percent": 33.0,
+      "manufacturing_minus_finance_pp": -12.8,
+      "source_sheet": "Figure 2_1"
+    },
+    {
+      "metric": "250-499 employees",
+      "finance_percent": 63.5,
+      "manufacturing_percent": 40.1,
+      "manufacturing_minus_finance_pp": -23.4,
+      "source_sheet": "Figure 2_1"
+    },
+    {
+      "metric": "500+ employees",
+      "finance_percent": 58.1,
+      "manufacturing_percent": 49.7,
+      "manufacturing_minus_finance_pp": -8.4,
+      "source_sheet": "Figure 2_1"
+    }
+  ]
+}

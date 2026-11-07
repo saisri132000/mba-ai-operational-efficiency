@@ -1,0 +1,223 @@
+{
+  "checks": [
+    {
+      "metric": "Employer AI adoption",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Employer AI adoption",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Employer perceived productivity: positive",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Employer perceived productivity: positive",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Worker perceived performance: improved",
+      "sector": "Finance and insurance",
+      "total": 0.999,
+      "status": "PASS"
+    },
+    {
+      "metric": "Worker perceived performance: improved",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Worker task pace: increased",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Worker task pace: increased",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Worker task control: increased",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Worker task control: increased",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Workers receiving decision assistance",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Workers receiving decision assistance",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Decision quality: agreement",
+      "sector": "Finance and insurance",
+      "total": 1.001,
+      "status": "PASS"
+    },
+    {
+      "metric": "Decision quality: agreement",
+      "sector": "Manufacturing",
+      "total": 0.999,
+      "status": "PASS"
+    },
+    {
+      "metric": "Decision enjoyment: agreement",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Decision enjoyment: agreement",
+      "sector": "Manufacturing",
+      "total": 0.999,
+      "status": "PASS"
+    },
+    {
+      "metric": "Decision speed: agreement",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Decision speed: agreement",
+      "sector": "Manufacturing",
+      "total": 0.999,
+      "status": "PASS"
+    },
+    {
+      "metric": "High-cost barrier",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "High-cost barrier",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Skills barrier",
+      "sector": "Finance and insurance",
+      "total": 1.0001,
+      "status": "PASS"
+    },
+    {
+      "metric": "Skills barrier",
+      "sector": "Manufacturing",
+      "total": 0.9999,
+      "status": "PASS"
+    },
+    {
+      "metric": "Not convinced of benefits",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Not convinced of benefits",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Government-regulation barrier",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Government-regulation barrier",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "Staff-cost motivation",
+      "sector": "Finance and insurance",
+      "total": 0.94,
+      "status": "EXCLUDED: inconsistent source total"
+    },
+    {
+      "metric": "Staff-cost motivation",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "AI adoption: 20-49 employees",
+      "sector": "Finance and insurance",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "AI adoption: 20-49 employees",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    },
+    {
+      "metric": "AI adoption: 50-249 employees",
+      "sector": "Finance and insurance",
+      "total": 1.001,
+      "status": "PASS"
+    },
+    {
+      "metric": "AI adoption: 50-249 employees",
+      "sector": "Manufacturing",
+      "total": 0.999,
+      "status": "PASS"
+    },
+    {
+      "metric": "AI adoption: 250-499 employees",
+      "sector": "Finance and insurance",
+      "total": 1.001,
+      "status": "PASS"
+    },
+    {
+      "metric": "AI adoption: 250-499 employees",
+      "sector": "Manufacturing",
+      "total": 1.001,
+      "status": "PASS"
+    },
+    {
+      "metric": "AI adoption: 500+ employees",
+      "sector": "Finance and insurance",
+      "total": 0.999,
+      "status": "PASS"
+    },
+    {
+      "metric": "AI adoption: 500+ employees",
+      "sector": "Manufacturing",
+      "total": 1.0,
+      "status": "PASS"
+    }
+  ],
+  "rounding_tolerance_proportion": 0.002,
+  "known_issue": "Figure 3_1 finance staff-cost motivation answers sum to 0.94; excluded from comparative conclusions. Source retained unchanged. No renormalization or inferred missing respondents.",
+  "scope": "Published weighted aggregates, not individual respondent records. No new causal or inferential estimates."
+}

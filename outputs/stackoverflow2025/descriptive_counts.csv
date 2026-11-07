@@ -1,0 +1,72 @@
+cohort,question,response,n,cohort_n,percent_of_cohort
+Employed professional developers,AISelect,"Yes, I use AI tools daily",10353,28774,35.98039897129353
+Employed professional developers,AISelect,Missing,8261,28774,28.709946479460623
+Employed professional developers,AISelect,"Yes, I use AI tools weekly",3661,28774,12.723291860707583
+Employed professional developers,AISelect,"No, and I don't plan to",2923,28774,10.158476402307638
+Employed professional developers,AISelect,"Yes, I use AI tools monthly or infrequently",2656,28774,9.230555362480017
+Employed professional developers,AISelect,"No, but I plan to soon",920,28774,3.197330923750608
+Employed professional developers,AIAgents,Missing,9258,28774,32.17488010009036
+Employed professional developers,AIAgents,"No, and I don't plan to",7237,28774,25.151178146938207
+Employed professional developers,AIAgents,"No, but I plan to",3328,28774,11.565997080697851
+Employed professional developers,AIAgents,"No, I use AI exclusively in copilot/autocomplete mode",2834,28774,9.849169389031765
+Employed professional developers,AIAgents,"Yes, I use AI agents at work daily",2808,28774,9.758810036838813
+Employed professional developers,AIAgents,"Yes, I use AI agents at work weekly",1822,28774,6.332105372906096
+Employed professional developers,AIAgents,"Yes, I use AI agents at work monthly or infrequently",1487,28774,5.167859873496907
+Employed professional developers,AIAcc,Missing,8490,28774,29.50580385069855
+Employed professional developers,AIAcc,Somewhat trust,6013,28774,20.897337874470008
+Employed professional developers,AIAcc,Somewhat distrust,5462,28774,18.982414679919373
+Employed professional developers,AIAcc,Neither trust nor distrust,4370,28774,15.187321887815388
+Employed professional developers,AIAcc,Highly distrust,3941,28774,13.69639257663168
+Employed professional developers,AIAcc,Highly trust,498,28774,1.7307291304650032
+Employed professional developers,AIComplex,Missing,8508,28774,29.568360325293668
+Employed professional developers,AIComplex,"Good, but not great at handling complex tasks",5077,28774,17.644401195523738
+Employed professional developers,AIComplex,Bad at handling complex tasks,4740,28774,16.47320497671509
+Employed professional developers,AIComplex,Very poor at handling complex tasks,3770,28774,13.102106067978037
+Employed professional developers,AIComplex,I don't use AI tools for complex tasks / I don't know,3055,28774,10.617223882671857
+Employed professional developers,AIComplex,Neither good or bad at handling complex tasks,2924,28774,10.161951762007368
+Employed professional developers,AIComplex,Very well at handling complex tasks,700,28774,2.4327517898102453
+Current AI tool users,AISelect,"Yes, I use AI tools daily",10353,16670,62.105578884223156
+Current AI tool users,AISelect,"Yes, I use AI tools weekly",3661,16670,21.961607678464308
+Current AI tool users,AISelect,"Yes, I use AI tools monthly or infrequently",2656,16670,15.932813437312538
+Current AI tool users,AIAgents,"No, and I don't plan to",4278,16670,25.662867426514698
+Current AI tool users,AIAgents,"No, but I plan to",2887,16670,17.318536292741452
+Current AI tool users,AIAgents,"Yes, I use AI agents at work daily",2778,16670,16.664667066586684
+Current AI tool users,AIAgents,"No, I use AI exclusively in copilot/autocomplete mode",2677,16670,16.05878824235153
+Current AI tool users,AIAgents,"Yes, I use AI agents at work weekly",1790,16670,10.737852429514097
+Current AI tool users,AIAgents,"Yes, I use AI agents at work monthly or infrequently",1401,16670,8.404319136172765
+Current AI tool users,AIAgents,Missing,859,16670,5.1529694061187765
+Current AI tool users,AIAcc,Somewhat trust,5750,16670,34.49310137972405
+Current AI tool users,AIAcc,Somewhat distrust,4374,16670,26.23875224955009
+Current AI tool users,AIAcc,Neither trust nor distrust,3868,16670,23.203359328134372
+Current AI tool users,AIAcc,Highly distrust,1998,16670,11.985602879424116
+Current AI tool users,AIAcc,Highly trust,483,16670,2.8974205158968207
+Current AI tool users,AIAcc,Missing,197,16670,1.181763647270546
+Current AI tool users,AIComplex,"Good, but not great at handling complex tasks",4940,16670,29.634073185362926
+Current AI tool users,AIComplex,Bad at handling complex tasks,4386,16670,26.310737852429515
+Current AI tool users,AIComplex,Very poor at handling complex tasks,2921,16670,17.52249550089982
+Current AI tool users,AIComplex,Neither good or bad at handling complex tasks,2711,16670,16.2627474505099
+Current AI tool users,AIComplex,I don't use AI tools for complex tasks / I don't know,826,16670,4.95500899820036
+Current AI tool users,AIComplex,Very well at handling complex tasks,683,16670,4.097180563887223
+Current AI tool users,AIComplex,Missing,203,16670,1.217756448710258
+Current AI agent users,AISelect,"Yes, I use AI tools daily",4483,6117,73.28755926107569
+Current AI agent users,AISelect,"Yes, I use AI tools weekly",989,6117,16.168056236717344
+Current AI agent users,AISelect,"Yes, I use AI tools monthly or infrequently",497,6117,8.124897825731567
+Current AI agent users,AISelect,"No, but I plan to soon",74,6117,1.2097433382376983
+Current AI agent users,AISelect,"No, and I don't plan to",66,6117,1.0789602746444336
+Current AI agent users,AISelect,Missing,8,6117,0.13078306359326466
+Current AI agent users,AIAgents,"Yes, I use AI agents at work daily",2808,6117,45.9048553212359
+Current AI agent users,AIAgents,"Yes, I use AI agents at work weekly",1822,6117,29.785842733366028
+Current AI agent users,AIAgents,"Yes, I use AI agents at work monthly or infrequently",1487,6117,24.309301945398072
+Current AI agent users,AIAcc,Somewhat trust,2472,6117,40.41196665031878
+Current AI agent users,AIAcc,Neither trust nor distrust,1445,6117,23.62269086153343
+Current AI agent users,AIAcc,Somewhat distrust,1348,6117,22.036946215465097
+Current AI agent users,AIAcc,Highly distrust,540,6117,8.827856792545365
+Current AI agent users,AIAcc,Highly trust,278,6117,4.5447114598659475
+Current AI agent users,AIAcc,Missing,34,6117,0.5558280202713749
+Current AI agent users,AIComplex,"Good, but not great at handling complex tasks",2296,6117,37.53473925126696
+Current AI agent users,AIComplex,Bad at handling complex tasks,1461,6117,23.88425698871996
+Current AI agent users,AIComplex,Neither good or bad at handling complex tasks,1011,6117,16.527709661598823
+Current AI agent users,AIComplex,Very poor at handling complex tasks,793,6117,12.96387117868236
+Current AI agent users,AIComplex,Very well at handling complex tasks,393,6117,6.424717999019127
+Current AI agent users,AIComplex,I don't use AI tools for complex tasks / I don't know,136,6117,2.2233120810854996
+Current AI agent users,AIComplex,Missing,27,6117,0.4413928396272683

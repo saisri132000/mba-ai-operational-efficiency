@@ -1,0 +1,5 @@
+metric,finance_percent,manufacturing_percent,manufacturing_minus_finance_pp,source_sheet
+20-49 employees,31.5,23.3,-8.2,Figure 2_1
+50-249 employees,45.8,33.0,-12.8,Figure 2_1
+250-499 employees,63.5,40.1,-23.4,Figure 2_1
+500+ employees,58.1,49.7,-8.4,Figure 2_1

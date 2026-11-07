@@ -1,0 +1,10 @@
+{
+  "pdf_pages": 9,
+  "explanation_word_count": 371,
+  "extracted_estimates": 152,
+  "distribution_checks": 36,
+  "excluded_source_items": 1,
+  "internal_html_links": "PASS",
+  "chart_links": "PASS",
+  "pdf_text_checks": "PASS"
+}

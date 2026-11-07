@@ -1,0 +1,153 @@
+metric,sector,response,raw_proportion,percentage,source_sheet,source_cell,unweighted_source_subgroup_n
+Employer AI adoption,Finance and insurance,Yes,0.41700000000000004,41.7,Figure 2_1,F31,653
+Employer AI adoption,Finance and insurance,No,0.5539999999999999,55.4,Figure 2_1,F32,653
+Employer AI adoption,Finance and insurance,Do not know,0.028999999999999998,2.9,Figure 2_1,F33,653
+Employer AI adoption,Manufacturing,Yes,0.29,29.0,Figure 2_1,F39,1400
+Employer AI adoption,Manufacturing,No,0.6829999999999999,68.3,Figure 2_1,F40,1400
+Employer AI adoption,Manufacturing,Do not know,0.027000000000000003,2.7,Figure 2_1,F41,1400
+Employer perceived productivity: positive,Finance and insurance,Positive,0.5670000000000001,56.7,Figure 3_2,B33,291
+Employer perceived productivity: positive,Finance and insurance,No effect,0.332,33.2,Figure 3_2,B34,291
+Employer perceived productivity: positive,Finance and insurance,Negative,0.078,7.8,Figure 3_2,B35,291
+Employer perceived productivity: positive,Finance and insurance,Do not know,0.023,2.3,Figure 3_2,B36,291
+Employer perceived productivity: positive,Manufacturing,Positive,0.626,62.6,Figure 3_2,B42,452
+Employer perceived productivity: positive,Manufacturing,No effect,0.299,29.9,Figure 3_2,B43,452
+Employer perceived productivity: positive,Manufacturing,Negative,0.051,5.1,Figure 3_2,B44,452
+Employer perceived productivity: positive,Manufacturing,Do not know,0.024,2.4,Figure 3_2,B45,452
+Worker perceived performance: improved,Finance and insurance,Improved a lot,0.303,30.3,Figure 3_3,B32,1231
+Worker perceived performance: improved,Finance and insurance,Improved a little,0.49,49.0,Figure 3_3,B33,1231
+Worker perceived performance: improved,Finance and insurance,No effect,0.111,11.1,Figure 3_3,B34,1231
+Worker perceived performance: improved,Finance and insurance,Worsened a little,0.057,5.7,Figure 3_3,B35,1231
+Worker perceived performance: improved,Finance and insurance,Worsened a lot,0.023,2.3,Figure 3_3,B36,1231
+Worker perceived performance: improved,Finance and insurance,Do not know,0.015,1.5,Figure 3_3,B37,1231
+Worker perceived performance: improved,Manufacturing,Improved a lot,0.3,30.0,Figure 3_3,B43,912
+Worker perceived performance: improved,Manufacturing,Improved a little,0.498,49.8,Figure 3_3,B44,912
+Worker perceived performance: improved,Manufacturing,No effect,0.113,11.3,Figure 3_3,B45,912
+Worker perceived performance: improved,Manufacturing,Worsened a little,0.068,6.8,Figure 3_3,B46,912
+Worker perceived performance: improved,Manufacturing,Worsened a lot,0.013999999999999999,1.4,Figure 3_3,B47,912
+Worker perceived performance: improved,Manufacturing,Do not know,0.006999999999999999,0.7,Figure 3_3,B48,912
+Worker task pace: increased,Finance and insurance,Decreased a lot,0.040999999999999995,4.1,Figure 5_6,C40,1231
+Worker task pace: increased,Finance and insurance,Decreased a little,0.09300000000000001,9.3,Figure 5_6,C41,1231
+Worker task pace: increased,Finance and insurance,No effect,0.10400000000000001,10.4,Figure 5_6,C42,1231
+Worker task pace: increased,Finance and insurance,Increased a little,0.431,43.1,Figure 5_6,C43,1231
+Worker task pace: increased,Finance and insurance,Increased a lot,0.317,31.7,Figure 5_6,C44,1231
+Worker task pace: increased,Finance and insurance,Do not know,0.013999999999999999,1.4,Figure 5_6,C45,1231
+Worker task pace: increased,Manufacturing,Decreased a lot,0.027000000000000003,2.7,Figure 5_6,B40,912
+Worker task pace: increased,Manufacturing,Decreased a little,0.085,8.5,Figure 5_6,B41,912
+Worker task pace: increased,Manufacturing,No effect,0.11,11.0,Figure 5_6,B42,912
+Worker task pace: increased,Manufacturing,Increased a little,0.424,42.4,Figure 5_6,B43,912
+Worker task pace: increased,Manufacturing,Increased a lot,0.35,35.0,Figure 5_6,B44,912
+Worker task pace: increased,Manufacturing,Do not know,0.004,0.4,Figure 5_6,B45,912
+Worker task control: increased,Finance and insurance,Decreased a lot,0.045,4.5,Figure 5_6,G40,1231
+Worker task control: increased,Finance and insurance,Decreased a little,0.156,15.6,Figure 5_6,G41,1231
+Worker task control: increased,Finance and insurance,No effect,0.18899999999999997,18.9,Figure 5_6,G42,1231
+Worker task control: increased,Finance and insurance,Increased a little,0.35,35.0,Figure 5_6,G43,1231
+Worker task control: increased,Finance and insurance,Increased a lot,0.23399999999999999,23.4,Figure 5_6,G44,1231
+Worker task control: increased,Finance and insurance,Do not know,0.026000000000000002,2.6,Figure 5_6,G45,1231
+Worker task control: increased,Manufacturing,Decreased a lot,0.043,4.3,Figure 5_6,F40,912
+Worker task control: increased,Manufacturing,Decreased a little,0.163,16.3,Figure 5_6,F41,912
+Worker task control: increased,Manufacturing,No effect,0.17600000000000002,17.6,Figure 5_6,F42,912
+Worker task control: increased,Manufacturing,Increased a little,0.386,38.6,Figure 5_6,F43,912
+Worker task control: increased,Manufacturing,Increased a lot,0.20800000000000002,20.8,Figure 5_6,F44,912
+Worker task control: increased,Manufacturing,Do not know,0.024,2.4,Figure 5_6,F45,912
+Workers receiving decision assistance,Finance and insurance,Yes,0.6970000000000001,69.7,Figure 5_8,C33,1231
+Workers receiving decision assistance,Finance and insurance,No,0.276,27.6,Figure 5_8,C34,1231
+Workers receiving decision assistance,Finance and insurance,Do not know,0.027000000000000003,2.7,Figure 5_8,C35,1231
+Workers receiving decision assistance,Manufacturing,Yes,0.562,56.2,Figure 5_8,B33,912
+Workers receiving decision assistance,Manufacturing,No,0.42200000000000004,42.2,Figure 5_8,B34,912
+Workers receiving decision assistance,Manufacturing,Do not know,0.016,1.6,Figure 5_8,B35,912
+Decision quality: agreement,Finance and insurance,Strongly agree,0.36700000000000005,36.7,Figure 5_9,B43,883
+Decision quality: agreement,Finance and insurance,Somewhat agree,0.452,45.2,Figure 5_9,B44,883
+Decision quality: agreement,Finance and insurance,Somewhat disagree,0.027000000000000003,2.7,Figure 5_9,B45,883
+Decision quality: agreement,Finance and insurance,Strongly disagree,0.013999999999999999,1.4,Figure 5_9,B46,883
+Decision quality: agreement,Finance and insurance,Neither,0.14,14.0,Figure 5_9,B47,883
+Decision quality: agreement,Finance and insurance,Do not know,0.001,0.1,Figure 5_9,B48,883
+Decision quality: agreement,Manufacturing,Strongly agree,0.37799999999999995,37.8,Figure 5_9,B55,558
+Decision quality: agreement,Manufacturing,Somewhat agree,0.441,44.1,Figure 5_9,B56,558
+Decision quality: agreement,Manufacturing,Somewhat disagree,0.021,2.1,Figure 5_9,B57,558
+Decision quality: agreement,Manufacturing,Strongly disagree,0.001,0.1,Figure 5_9,B58,558
+Decision quality: agreement,Manufacturing,Neither,0.158,15.8,Figure 5_9,B59,558
+Decision quality: agreement,Manufacturing,Do not know,0,0,Figure 5_9,B60,558
+Decision enjoyment: agreement,Finance and insurance,Strongly agree,0.406,40.6,Figure 5_9,C43,883
+Decision enjoyment: agreement,Finance and insurance,Somewhat agree,0.43200000000000005,43.2,Figure 5_9,C44,883
+Decision enjoyment: agreement,Finance and insurance,Somewhat disagree,0.027999999999999997,2.8,Figure 5_9,C45,883
+Decision enjoyment: agreement,Finance and insurance,Strongly disagree,0.01,1.0,Figure 5_9,C46,883
+Decision enjoyment: agreement,Finance and insurance,Neither,0.12300000000000001,12.3,Figure 5_9,C47,883
+Decision enjoyment: agreement,Finance and insurance,Do not know,0.001,0.1,Figure 5_9,C48,883
+Decision enjoyment: agreement,Manufacturing,Strongly agree,0.392,39.2,Figure 5_9,C55,558
+Decision enjoyment: agreement,Manufacturing,Somewhat agree,0.436,43.6,Figure 5_9,C56,558
+Decision enjoyment: agreement,Manufacturing,Somewhat disagree,0.027000000000000003,2.7,Figure 5_9,C57,558
+Decision enjoyment: agreement,Manufacturing,Strongly disagree,0.005,0.5,Figure 5_9,C58,558
+Decision enjoyment: agreement,Manufacturing,Neither,0.138,13.8,Figure 5_9,C59,558
+Decision enjoyment: agreement,Manufacturing,Do not know,0.001,0.1,Figure 5_9,C60,558
+Decision speed: agreement,Finance and insurance,Strongly agree,0.445,44.5,Figure 5_9,D43,883
+Decision speed: agreement,Finance and insurance,Somewhat agree,0.401,40.1,Figure 5_9,D44,883
+Decision speed: agreement,Finance and insurance,Somewhat disagree,0.033,3.3,Figure 5_9,D45,883
+Decision speed: agreement,Finance and insurance,Strongly disagree,0.006999999999999999,0.7,Figure 5_9,D46,883
+Decision speed: agreement,Finance and insurance,Neither,0.113,11.3,Figure 5_9,D47,883
+Decision speed: agreement,Finance and insurance,Do not know,0.001,0.1,Figure 5_9,D48,883
+Decision speed: agreement,Manufacturing,Strongly agree,0.45799999999999996,45.8,Figure 5_9,D55,558
+Decision speed: agreement,Manufacturing,Somewhat agree,0.406,40.6,Figure 5_9,D56,558
+Decision speed: agreement,Manufacturing,Somewhat disagree,0.013999999999999999,1.4,Figure 5_9,D57,558
+Decision speed: agreement,Manufacturing,Strongly disagree,0,0,Figure 5_9,D58,558
+Decision speed: agreement,Manufacturing,Neither,0.121,12.1,Figure 5_9,D59,558
+Decision speed: agreement,Manufacturing,Do not know,0,0,Figure 5_9,D60,558
+High-cost barrier,Finance and insurance,Yes,0.5303,53.03,Figure 8_7,F40,653
+High-cost barrier,Finance and insurance,No,0.3875,38.75,Figure 8_7,F41,653
+High-cost barrier,Finance and insurance,Do not know,0.0822,8.22,Figure 8_7,F42,653
+High-cost barrier,Manufacturing,Yes,0.5765,57.65,Figure 8_7,F48,1400
+High-cost barrier,Manufacturing,No,0.3725,37.25,Figure 8_7,F49,1400
+High-cost barrier,Manufacturing,Do not know,0.051,5.1,Figure 8_7,F50,1400
+Skills barrier,Finance and insurance,Yes,0.4135,41.35,Figure 8_7,E40,653
+Skills barrier,Finance and insurance,No,0.545,54.5,Figure 8_7,E41,653
+Skills barrier,Finance and insurance,Do not know,0.0416,4.16,Figure 8_7,E42,653
+Skills barrier,Manufacturing,Yes,0.4269,42.69,Figure 8_7,E48,1400
+Skills barrier,Manufacturing,No,0.5391,53.91,Figure 8_7,E49,1400
+Skills barrier,Manufacturing,Do not know,0.0339,3.39,Figure 8_7,E50,1400
+Not convinced of benefits,Finance and insurance,Yes,0.2935,29.35,Figure 8_7,D40,653
+Not convinced of benefits,Finance and insurance,No,0.6578,65.78,Figure 8_7,D41,653
+Not convinced of benefits,Finance and insurance,Do not know,0.0487,4.87,Figure 8_7,D42,653
+Not convinced of benefits,Manufacturing,Yes,0.3484,34.84,Figure 8_7,D48,1400
+Not convinced of benefits,Manufacturing,No,0.6105,61.05,Figure 8_7,D49,1400
+Not convinced of benefits,Manufacturing,Do not know,0.0411,4.11,Figure 8_7,D50,1400
+Government-regulation barrier,Finance and insurance,Yes,0.2486,24.86,Figure 8_7,C40,653
+Government-regulation barrier,Finance and insurance,No,0.6471,64.71,Figure 8_7,C41,653
+Government-regulation barrier,Finance and insurance,Do not know,0.1043,10.43,Figure 8_7,C42,653
+Government-regulation barrier,Manufacturing,Yes,0.1857,18.57,Figure 8_7,C48,1400
+Government-regulation barrier,Manufacturing,No,0.7354,73.54,Figure 8_7,C49,1400
+Government-regulation barrier,Manufacturing,Do not know,0.0789,7.89,Figure 8_7,C50,1400
+Staff-cost motivation,Finance and insurance,Yes,0.41619999999999996,41.62,Figure 3_1,C32,291
+Staff-cost motivation,Finance and insurance,No,0.5146000000000001,51.46,Figure 3_1,C33,291
+Staff-cost motivation,Finance and insurance,Do not know,0.0092,0.92,Figure 3_1,C34,291
+Staff-cost motivation,Manufacturing,Yes,0.4714,47.14,Figure 3_1,C40,452
+Staff-cost motivation,Manufacturing,No,0.5108,51.08,Figure 3_1,C41,452
+Staff-cost motivation,Manufacturing,Do not know,0.0178,1.78,Figure 3_1,C42,452
+Task automation,Finance and insurance,Reported,0.6609999999999999,66.1,Figure 5_1,A24,291
+Task automation,Manufacturing,Reported,0.716,71.6,Figure 5_1,D24,452
+Task creation,Finance and insurance,Reported,0.485,48.5,Figure 5_1,B24,291
+Task creation,Manufacturing,Reported,0.47600000000000003,47.6,Figure 5_1,E24,452
+Both automation and creation,Finance and insurance,Reported,0.327,32.7,Figure 5_1,C24,291
+Both automation and creation,Manufacturing,Reported,0.3508,35.08,Figure 5_1,F24,452
+AI adoption: 20-49 employees,Finance and insurance,Yes,0.315,31.5,Figure 2_1,B31,247
+AI adoption: 20-49 employees,Finance and insurance,No,0.6559999999999999,65.6,Figure 2_1,B32,247
+AI adoption: 20-49 employees,Finance and insurance,Do not know,0.028999999999999998,2.9,Figure 2_1,B33,247
+AI adoption: 20-49 employees,Manufacturing,Yes,0.233,23.3,Figure 2_1,B39,529
+AI adoption: 20-49 employees,Manufacturing,No,0.738,73.8,Figure 2_1,B40,529
+AI adoption: 20-49 employees,Manufacturing,Do not know,0.028999999999999998,2.9,Figure 2_1,B41,529
+AI adoption: 50-249 employees,Finance and insurance,Yes,0.45799999999999996,45.8,Figure 2_1,C31,239
+AI adoption: 50-249 employees,Finance and insurance,No,0.514,51.4,Figure 2_1,C32,239
+AI adoption: 50-249 employees,Finance and insurance,Do not know,0.028999999999999998,2.9,Figure 2_1,C33,239
+AI adoption: 50-249 employees,Manufacturing,Yes,0.33,33.0,Figure 2_1,C39,545
+AI adoption: 50-249 employees,Manufacturing,No,0.6459999999999999,64.6,Figure 2_1,C40,545
+AI adoption: 50-249 employees,Manufacturing,Do not know,0.023,2.3,Figure 2_1,C41,545
+AI adoption: 250-499 employees,Finance and insurance,Yes,0.635,63.5,Figure 2_1,D31,92
+AI adoption: 250-499 employees,Finance and insurance,No,0.35600000000000004,35.6,Figure 2_1,D32,92
+AI adoption: 250-499 employees,Finance and insurance,Do not know,0.01,1.0,Figure 2_1,D33,92
+AI adoption: 250-499 employees,Manufacturing,Yes,0.401,40.1,Figure 2_1,D39,164
+AI adoption: 250-499 employees,Manufacturing,No,0.569,56.9,Figure 2_1,D40,164
+AI adoption: 250-499 employees,Manufacturing,Do not know,0.031,3.1,Figure 2_1,D41,164
+AI adoption: 500+ employees,Finance and insurance,Yes,0.581,58.1,Figure 2_1,E31,75
+AI adoption: 500+ employees,Finance and insurance,No,0.359,35.9,Figure 2_1,E32,75
+AI adoption: 500+ employees,Finance and insurance,Do not know,0.059000000000000004,5.9,Figure 2_1,E33,75
+AI adoption: 500+ employees,Manufacturing,Yes,0.49700000000000005,49.7,Figure 2_1,E39,162
+AI adoption: 500+ employees,Manufacturing,No,0.461,46.1,Figure 2_1,E40,162
+AI adoption: 500+ employees,Manufacturing,Do not know,0.042,4.2,Figure 2_1,E41,162
