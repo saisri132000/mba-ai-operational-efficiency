@@ -2,6 +2,8 @@
 
 **A comparative secondary analysis of OECD employer and worker surveys.**
 
+**Public VIT project repository:** https://github.com/saisri132000/mba-ai-operational-efficiency
+
 ## Independent regression study using Stack Overflow 2025
 
 A revised empirical draft, **AI Use at Work**, is available in `outputs/stackoverflow2025/AI_Use_at_Work_Regression_Report.docx` and its HTML/PDF versions. It uses genuine public respondent records and fits five exploratory logistic regressions on adoption, perceived agent productivity, debugging frustration, complex-task ratings and trust. This study has revised objectives and an employed-professional-developer population; supervisor acceptance of that scope remains pending. It does not pool records with OECD aggregates or describe Chennai managers.

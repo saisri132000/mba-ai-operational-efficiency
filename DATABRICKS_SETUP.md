@@ -4,7 +4,7 @@
 
 1. Visit [Databricks Free Edition](https://www.databricks.com/learn/free-edition) and sign up. Databricks creates a workspace for personal learning. This account action requires your login; no credentials should be sent in chat or stored in Git.
 2. Open **Workspace**, then your user folder. Create a folder named exactly **Buisness projects**. This is the project-organizing folder inside the new workspace; the account-level workspace may have an automatically assigned name.
-3. Inside that folder, create a **Git folder**, using `https://github.com/Naramalakumarteja/mba-ai-operational-efficiency-chennai.git` and branch `main`. Connect your GitHub account through Databricks' Git integration for access to this private repository. Grant only the access you intend.
+3. Inside that folder, create a **Git folder**, using `https://github.com/saisri132000/mba-ai-operational-efficiency.git` and branch `main`. This is the public VIT project repository; reading it does not require access to the author's private repository. Databricks may still require its own Git integration setup.
 4. Open `Databricks_OECD_Analysis.py` from that Git folder and choose serverless Python, or a compatible Runtime 14.0+ environment. Keep the complete folder tree, including `sources/` and `scripts/`.
 5. Run all notebook cells. The first cell installs the pinned Python packages. The next restarts Python. The remaining cells validate inputs, generate reports/ZIP, display the report and results, and print output paths.
 
