@@ -15,6 +15,7 @@ from docx.oxml.ns import qn
 
 TITLE = 'AI Use at Work'
 SUBTITLE = 'Developer Adoption, Perceived Productivity, Trust and Challenges Using Stack Overflow Survey 2025'
+PROJECT_URL = 'https://github.com/saisri132000/mba-ai-operational-efficiency'
 LABELS = {'M1_adoption':'AI adoption', 'M2_productivity':'Perceived agent productivity',
           'M3_debugging':'Debugging frustration','M4_complex_tasks':'Complex-task ratings','M5_trust':'Trust in AI accuracy'}
 CONTRASTS = {'M1_adoption':'20+ versus under 5 years of experience',
@@ -69,6 +70,18 @@ def build(root, template):
         body.append(f'<h{level+1} id="{anchor}">{html.escape(text)}</h{level+1}>')
     def page():
         doc.add_page_break()
+    def repository_link():
+        p=doc.add_paragraph('Public VIT project repository: ')
+        link=OxmlElement('w:hyperlink')
+        from docx.opc.constants import RELATIONSHIP_TYPE
+        rel=doc.part.relate_to(PROJECT_URL,RELATIONSHIP_TYPE.HYPERLINK,is_external=True)
+        link.set(qn('r:id'),rel)
+        run=OxmlElement('w:r');props=OxmlElement('w:rPr')
+        color=OxmlElement('w:color');color.set(qn('w:val'),'0563C1');props.append(color)
+        underline=OxmlElement('w:u');underline.set(qn('w:val'),'single');props.append(underline)
+        run.append(props);text=OxmlElement('w:t');text.text=PROJECT_URL;run.append(text)
+        link.append(run);p._p.append(link)
+        body.append('<p>Public VIT project repository: <a href="'+PROJECT_URL+'">'+PROJECT_URL+'</a></p>')
     def table(headers,rows):
         t=doc.add_table(rows=1,cols=len(headers));t.style='Table Grid'
         for c,txt in zip(t.rows[0].cells,headers):c.text=str(txt)
@@ -203,6 +216,7 @@ def build(root, template):
     heading('B Output files',2)
     table(['File','Purpose'],[['analysis.json','Source hashes cohort counts missingness model diagnostics and sensitivity'],['primary_results.csv','Five primary contrasts with confidence intervals and raw and Holm p-values'],['M1 to M5 coefficients.csv','All model coefficients including adjustment variables'],['M1 to M5 model_rows.csv','Source ResponseId coded outcome and fitted probability for audit'],['M1 to M5 calibration.csv','In-sample calibration bins'],['descriptive_counts.csv','Question frequencies with explicit cohort denominators'],['questionnaire_extract.csv','Publisher question wording for the selected variables']])
     heading('C Rerunning the analysis',2)
+    repository_link()
     para('Install the versions in requirements-stackoverflow.txt in an isolated Python environment. Download results.csv and schema.csv from the official archive using scripts/download_stackoverflow.py. Run python stackoverflow_analysis.py --data work/stackoverflow_2025/results.csv --schema work/stackoverflow_2025/schema.csv. Run python -m unittest discover -s tests -p test_stackoverflow_analysis.py. To regenerate this revised report run python scripts/build_stackoverflow_report.py --template outputs/stackoverflow2025/AI_Use_at_Work_Regression_Report.docx. The delivered DOCX can itself supply the page styles for a rerun, so the original private draft is not required. Output location: outputs/stackoverflow2025. The analysis rejects changed source hashes until reviewed. Word or another compatible renderer is needed to export the DOCX to PDF.')
     heading('D Validation and external inputs',2)
     table(['Component','Status'],[['Title objectives scope','Revised consistently for employed professional developers; supervisor acceptance pending'],['Variables and source questionnaire','Mapped to actual public survey fields; no primary survey claimed'],['Sampling','Voluntary survey and complete-case cohorts explicitly documented'],['Statistical methods','Five fitted logistic models robust intervals sensitivity and diagnostics complete'],['Interpretation','Associational self-report limits retained throughout'],['Institutional submission','Guide approval signatures formatting and literature expectations require confirmation']])
@@ -214,6 +228,8 @@ def build(root, template):
     navigation='<nav>'+''.join('<a href="#section-'+str(i)+'">'+html.escape(part.split('>',1)[1].split('</',1)[0])+'</a> ' for i,part in enumerate(body) if part.startswith('<h2 '))+'</nav>'
     (out/'AI_Use_at_Work_Regression_Report.html').write_text('<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+TITLE+'</title><style>body{font:17px/1.6 Georgia,serif;max-width:1000px;margin:30px auto;padding:0 20px;color:#17212b}h1,h2,h3{line-height:1.25}nav{display:flex;flex-wrap:wrap;gap:12px;font:14px Arial}.table{overflow:auto}table{border-collapse:collapse;width:100%;font:14px/1.4 Arial;margin:20px 0}th,td{border:1px solid #ccd2d8;padding:10px;text-align:left}th{background:#dde6ef}tr:nth-child(even){background:#f5f5f5}p{overflow-wrap:anywhere}@media print{nav{display:none}h2{break-before:page}tr{break-inside:avoid}}</style>'+navigation+contents+'</html>',encoding='utf-8')
     (out/'README.md').write_text('''# Stack Overflow regression analysis
+
+Public VIT project repository: https://github.com/saisri132000/mba-ai-operational-efficiency
 
 This is an independent revised research report using genuine public respondent data. It does not replace or pool the existing OECD aggregate report.
 
